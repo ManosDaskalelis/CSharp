@@ -1,0 +1,14 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\obj\Debug\net8.0\FiboLinearApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\obj\Debug\net8.0\FiboLinearApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\obj\Debug\net8.0\FiboLinearApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\obj\Debug\net8.0\FiboLinearApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\bin\Debug\net8.0\FiboLinearApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\bin\Debug\net8.0\FiboLinearApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\bin\Debug\net8.0\FiboLinearApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\bin\Debug\net8.0\FiboLinearApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\bin\Debug\net8.0\FiboLinearApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\obj\Debug\net8.0\FiboLinearApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\obj\Debug\net8.0\refint\FiboLinearApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\obj\Debug\net8.0\FiboLinearApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\obj\Debug\net8.0\FiboLinearApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboLinearApp\obj\Debug\net8.0\ref\FiboLinearApp.dll

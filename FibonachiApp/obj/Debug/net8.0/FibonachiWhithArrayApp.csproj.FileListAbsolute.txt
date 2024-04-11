@@ -1,0 +1,14 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\bin\Debug\net8.0\FibonachiWhithArrayApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\bin\Debug\net8.0\FibonachiWhithArrayApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\bin\Debug\net8.0\FibonachiWhithArrayApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\bin\Debug\net8.0\FibonachiWhithArrayApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\bin\Debug\net8.0\FibonachiWhithArrayApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\obj\Debug\net8.0\FibonachiWhithArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\obj\Debug\net8.0\FibonachiWhithArrayApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\obj\Debug\net8.0\FibonachiWhithArrayApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\obj\Debug\net8.0\FibonachiWhithArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\obj\Debug\net8.0\FibonachiWhithArrayApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\obj\Debug\net8.0\refint\FibonachiWhithArrayApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\obj\Debug\net8.0\FibonachiWhithArrayApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\obj\Debug\net8.0\FibonachiWhithArrayApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FibonachiApp\obj\Debug\net8.0\ref\FibonachiWhithArrayApp.dll

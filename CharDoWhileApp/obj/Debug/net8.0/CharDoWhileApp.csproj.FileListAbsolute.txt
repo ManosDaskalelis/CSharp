@@ -1,0 +1,14 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\bin\Debug\net8.0\CharDoWhileApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\bin\Debug\net8.0\CharDoWhileApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\bin\Debug\net8.0\CharDoWhileApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\bin\Debug\net8.0\CharDoWhileApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\bin\Debug\net8.0\CharDoWhileApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\obj\Debug\net8.0\CharDoWhileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\obj\Debug\net8.0\CharDoWhileApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\obj\Debug\net8.0\CharDoWhileApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\obj\Debug\net8.0\CharDoWhileApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\obj\Debug\net8.0\CharDoWhileApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\obj\Debug\net8.0\refint\CharDoWhileApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\obj\Debug\net8.0\CharDoWhileApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\obj\Debug\net8.0\CharDoWhileApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\CharDoWhileApp\obj\Debug\net8.0\ref\CharDoWhileApp.dll

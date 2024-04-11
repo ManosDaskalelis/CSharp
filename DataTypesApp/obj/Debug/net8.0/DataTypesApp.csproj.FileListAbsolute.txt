@@ -1,0 +1,14 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\bin\Debug\net8.0\DataTypesApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\bin\Debug\net8.0\DataTypesApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\bin\Debug\net8.0\DataTypesApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\bin\Debug\net8.0\DataTypesApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\bin\Debug\net8.0\DataTypesApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\obj\Debug\net8.0\DataTypesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\obj\Debug\net8.0\DataTypesApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\obj\Debug\net8.0\DataTypesApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\obj\Debug\net8.0\DataTypesApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\obj\Debug\net8.0\DataTypesApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\obj\Debug\net8.0\refint\DataTypesApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\obj\Debug\net8.0\DataTypesApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\obj\Debug\net8.0\DataTypesApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\DataTypesApp\obj\Debug\net8.0\ref\DataTypesApp.dll

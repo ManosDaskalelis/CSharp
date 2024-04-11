@@ -1,0 +1,14 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\bin\Debug\net8.0\NullConditionalApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\bin\Debug\net8.0\NullConditionalApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\bin\Debug\net8.0\NullConditionalApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\bin\Debug\net8.0\NullConditionalApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\bin\Debug\net8.0\NullConditionalApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\obj\Debug\net8.0\NullConditionalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\obj\Debug\net8.0\NullConditionalApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\obj\Debug\net8.0\NullConditionalApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\obj\Debug\net8.0\NullConditionalApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\obj\Debug\net8.0\NullConditionalApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\obj\Debug\net8.0\refint\NullConditionalApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\obj\Debug\net8.0\NullConditionalApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\obj\Debug\net8.0\NullConditionalApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\NullConditionalApp\obj\Debug\net8.0\ref\NullConditionalApp.dll

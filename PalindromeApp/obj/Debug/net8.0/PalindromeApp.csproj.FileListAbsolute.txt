@@ -1,0 +1,14 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\bin\Debug\net8.0\PalindromeApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\bin\Debug\net8.0\PalindromeApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\bin\Debug\net8.0\PalindromeApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\bin\Debug\net8.0\PalindromeApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\bin\Debug\net8.0\PalindromeApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\obj\Debug\net8.0\PalindromeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\obj\Debug\net8.0\PalindromeApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\obj\Debug\net8.0\PalindromeApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\obj\Debug\net8.0\PalindromeApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\obj\Debug\net8.0\PalindromeApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\obj\Debug\net8.0\refint\PalindromeApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\obj\Debug\net8.0\PalindromeApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\obj\Debug\net8.0\PalindromeApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PalindromeApp\obj\Debug\net8.0\ref\PalindromeApp.dll

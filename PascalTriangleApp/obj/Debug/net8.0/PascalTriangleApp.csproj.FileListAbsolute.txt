@@ -1,0 +1,14 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\obj\Debug\net8.0\PascalTriangleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\obj\Debug\net8.0\PascalTriangleApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\obj\Debug\net8.0\PascalTriangleApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\obj\Debug\net8.0\PascalTriangleApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\bin\Debug\net8.0\PascalTriangleApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\bin\Debug\net8.0\PascalTriangleApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\bin\Debug\net8.0\PascalTriangleApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\bin\Debug\net8.0\PascalTriangleApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\bin\Debug\net8.0\PascalTriangleApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\obj\Debug\net8.0\PascalTriangleApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\obj\Debug\net8.0\refint\PascalTriangleApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\obj\Debug\net8.0\PascalTriangleApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\obj\Debug\net8.0\PascalTriangleApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PascalTriangleApp\obj\Debug\net8.0\ref\PascalTriangleApp.dll

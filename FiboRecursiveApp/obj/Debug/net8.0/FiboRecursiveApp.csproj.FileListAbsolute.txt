@@ -1,0 +1,14 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\bin\Debug\net8.0\FiboRecursiveApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\bin\Debug\net8.0\FiboRecursiveApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\bin\Debug\net8.0\FiboRecursiveApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\bin\Debug\net8.0\FiboRecursiveApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\bin\Debug\net8.0\FiboRecursiveApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\obj\Debug\net8.0\FiboRecursiveApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\obj\Debug\net8.0\FiboRecursiveApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\obj\Debug\net8.0\FiboRecursiveApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\obj\Debug\net8.0\FiboRecursiveApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\obj\Debug\net8.0\FiboRecursiveApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\obj\Debug\net8.0\refint\FiboRecursiveApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\obj\Debug\net8.0\FiboRecursiveApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\obj\Debug\net8.0\FiboRecursiveApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\FiboRecursiveApp\obj\Debug\net8.0\ref\FiboRecursiveApp.dll

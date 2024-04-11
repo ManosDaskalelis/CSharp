@@ -1,0 +1,14 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\bin\Debug\net8.0\ArgsApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\bin\Debug\net8.0\ArgsApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\bin\Debug\net8.0\ArgsApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\bin\Debug\net8.0\ArgsApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\bin\Debug\net8.0\ArgsApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\obj\Debug\net8.0\ArgsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\obj\Debug\net8.0\ArgsApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\obj\Debug\net8.0\ArgsApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\obj\Debug\net8.0\ArgsApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\obj\Debug\net8.0\ArgsApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\obj\Debug\net8.0\refint\ArgsApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\obj\Debug\net8.0\ArgsApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\obj\Debug\net8.0\ArgsApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\ArgsApp\obj\Debug\net8.0\ref\ArgsApp.dll

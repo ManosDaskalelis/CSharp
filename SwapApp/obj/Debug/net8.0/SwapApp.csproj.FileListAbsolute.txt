@@ -1,0 +1,14 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\bin\Debug\net8.0\SwapApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\bin\Debug\net8.0\SwapApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\bin\Debug\net8.0\SwapApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\bin\Debug\net8.0\SwapApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\bin\Debug\net8.0\SwapApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\obj\Debug\net8.0\SwapApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\obj\Debug\net8.0\SwapApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\obj\Debug\net8.0\SwapApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\obj\Debug\net8.0\SwapApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\obj\Debug\net8.0\SwapApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\obj\Debug\net8.0\refint\SwapApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\obj\Debug\net8.0\SwapApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\obj\Debug\net8.0\SwapApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\SwapApp\obj\Debug\net8.0\ref\SwapApp.dll

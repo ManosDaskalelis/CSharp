@@ -1,0 +1,14 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\bin\Debug\net8.0\HelloOOPApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\bin\Debug\net8.0\HelloOOPApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\bin\Debug\net8.0\HelloOOPApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\bin\Debug\net8.0\HelloOOPApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\bin\Debug\net8.0\HelloOOPApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\obj\Debug\net8.0\HelloOOPApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\obj\Debug\net8.0\HelloOOPApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\obj\Debug\net8.0\HelloOOPApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\obj\Debug\net8.0\HelloOOPApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\obj\Debug\net8.0\HelloOOPApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\obj\Debug\net8.0\refint\HelloOOPApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\obj\Debug\net8.0\HelloOOPApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\obj\Debug\net8.0\HelloOOPApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\HelloOOPApp\obj\Debug\net8.0\ref\HelloOOPApp.dll
