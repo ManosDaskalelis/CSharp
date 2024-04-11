@@ -65,11 +65,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionalParamsApp", "Option
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalTriangleApp", "PascalTriangleApp\PascalTriangleApp.csproj", "{021F3F97-33FD-4D97-BEAE-2072F16C6D72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayUtil", "ArrayUtil\ArrayUtil.csproj", "{83CFC349-2F3D-44C1-89C5-653F947828A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayUtil", "ArrayUtil\ArrayUtil.csproj", "{83CFC349-2F3D-44C1-89C5-653F947828A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloOOPApp", "HelloOOPApp\HelloOOPApp.csproj", "{3B776CAF-7BB8-4652-84A4-78A52EF2FECA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloOOPApp", "HelloOOPApp\HelloOOPApp.csproj", "{3B776CAF-7BB8-4652-84A4-78A52EF2FECA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccounApp", "AccounApp\AccounApp.csproj", "{42C4D047-0FB3-43F3-9C65-E89E393C9433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccounApp", "AccounApp\AccounApp.csproj", "{42C4D047-0FB3-43F3-9C65-E89E393C9433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointApp", "PointApp\PointApp.csproj", "{F7A657ED-0043-43B3-A810-E5E6AA99B6EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShallowDeepCopies", "ShallowDeepCopies\ShallowDeepCopies.csproj", "{8EB7A939-4299-4EF1-8158-85EF105DFCA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractions", "Fractions\Fractions.csproj", "{ADD5875A-8F78-44C1-A6A4-CB4A03E089ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesApp", "InterfacesApp\InterfacesApp.csproj", "{ABD33058-C879-4B7F-BF90-078567B7F6AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionApp", "DependencyInjectionApp\DependencyInjectionApp.csproj", "{46ABC581-4449-4B8F-9B36-B76E40644594}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +223,26 @@ Global
 		{42C4D047-0FB3-43F3-9C65-E89E393C9433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42C4D047-0FB3-43F3-9C65-E89E393C9433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42C4D047-0FB3-43F3-9C65-E89E393C9433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A657ED-0043-43B3-A810-E5E6AA99B6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A657ED-0043-43B3-A810-E5E6AA99B6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A657ED-0043-43B3-A810-E5E6AA99B6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A657ED-0043-43B3-A810-E5E6AA99B6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB7A939-4299-4EF1-8158-85EF105DFCA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB7A939-4299-4EF1-8158-85EF105DFCA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB7A939-4299-4EF1-8158-85EF105DFCA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB7A939-4299-4EF1-8158-85EF105DFCA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD5875A-8F78-44C1-A6A4-CB4A03E089ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD5875A-8F78-44C1-A6A4-CB4A03E089ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD5875A-8F78-44C1-A6A4-CB4A03E089ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD5875A-8F78-44C1-A6A4-CB4A03E089ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD33058-C879-4B7F-BF90-078567B7F6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD33058-C879-4B7F-BF90-078567B7F6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD33058-C879-4B7F-BF90-078567B7F6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD33058-C879-4B7F-BF90-078567B7F6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46ABC581-4449-4B8F-9B36-B76E40644594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46ABC581-4449-4B8F-9B36-B76E40644594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46ABC581-4449-4B8F-9B36-B76E40644594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46ABC581-4449-4B8F-9B36-B76E40644594}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

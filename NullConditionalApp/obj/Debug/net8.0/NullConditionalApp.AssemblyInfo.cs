@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NullConditionalApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e669d5fd4a5014d3fcb5a6283eae756719b484fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("NullConditionalApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NullConditionalApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

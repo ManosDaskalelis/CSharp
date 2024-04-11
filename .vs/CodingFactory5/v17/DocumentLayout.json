@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42C4D047-0FB3-43F3-9C65-E89E393C9433}|AccounApp\\AccounApp.csproj|c:\\users\\manos\\desktop\\cs12dotnet8\\codingfactory5\\accounapp\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42C4D047-0FB3-43F3-9C65-E89E393C9433}|AccounApp\\AccounApp.csproj|solutionrelative:accounapp\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABD33058-C879-4B7F-BF90-078567B7F6AB}|InterfacesApp\\InterfacesApp.csproj|c:\\users\\manos\\desktop\\cs12dotnet8\\codingfactory5\\interfacesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD33058-C879-4B7F-BF90-078567B7F6AB}|InterfacesApp\\InterfacesApp.csproj|solutionrelative:interfacesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42C4D047-0FB3-43F3-9C65-E89E393C9433}|AccounApp\\AccounApp.csproj|c:\\users\\manos\\desktop\\cs12dotnet8\\codingfactory5\\accounapp\\\u03B5xceptions\\insufficientamountexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42C4D047-0FB3-43F3-9C65-E89E393C9433}|AccounApp\\AccounApp.csproj|solutionrelative:accounapp\\\u03B5xceptions\\insufficientamountexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABD33058-C879-4B7F-BF90-078567B7F6AB}|InterfacesApp\\InterfacesApp.csproj|c:\\users\\manos\\desktop\\cs12dotnet8\\codingfactory5\\interfacesapp\\service\\movingspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD33058-C879-4B7F-BF90-078567B7F6AB}|InterfacesApp\\InterfacesApp.csproj|solutionrelative:interfacesapp\\service\\movingspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46ABC581-4449-4B8F-9B36-B76E40644594}|DependencyInjectionApp\\DependencyInjectionApp.csproj|c:\\users\\manos\\desktop\\cs12dotnet8\\codingfactory5\\dependencyinjectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46ABC581-4449-4B8F-9B36-B76E40644594}|DependencyInjectionApp\\DependencyInjectionApp.csproj|solutionrelative:dependencyinjectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +22,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\AccounApp\\Model\\Account.cs",
-              "RelativeDocumentMoniker": "AccounApp\\Model\\Account.cs",
-              "ToolTip": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\AccounApp\\Model\\Account.cs",
-              "RelativeToolTip": "AccounApp\\Model\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T13:15:36.299Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\InterfacesApp\\Program.cs",
+              "RelativeDocumentMoniker": "InterfacesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\InterfacesApp\\Program.cs",
+              "RelativeToolTip": "InterfacesApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:54:53.783Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InsufficientAmountExceptions.cs",
-              "DocumentMoniker": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\AccounApp\\\u0395xceptions\\InsufficientAmountExceptions.cs",
-              "RelativeDocumentMoniker": "AccounApp\\\u0395xceptions\\InsufficientAmountExceptions.cs",
-              "ToolTip": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\AccounApp\\\u0395xceptions\\InsufficientAmountExceptions.cs",
-              "RelativeToolTip": "AccounApp\\\u0395xceptions\\InsufficientAmountExceptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Title": "MovingSpace.cs",
+              "DocumentMoniker": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\InterfacesApp\\Service\\MovingSpace.cs",
+              "RelativeDocumentMoniker": "InterfacesApp\\Service\\MovingSpace.cs",
+              "ToolTip": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\InterfacesApp\\Service\\MovingSpace.cs",
+              "RelativeToolTip": "InterfacesApp\\Service\\MovingSpace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T13:09:58.676Z",
+              "WhenOpened": "2024-04-11T17:50:07.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\DependencyInjectionApp\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\DependencyInjectionApp\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:49:34.101Z",
               "EditorCaption": ""
             }
           ]
