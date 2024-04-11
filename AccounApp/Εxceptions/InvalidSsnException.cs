@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace AccounApp.Εxceptions
 {
-    internal class NegativeAmountException : Exception
+    internal class InvalidSsnException : Exception
     {
-        public NegativeAmountException(string s) : base(s)
+        public InvalidSsnException(string ssn) :base("SSN: " + ssn + " is not valid!") 
         {
             
         }

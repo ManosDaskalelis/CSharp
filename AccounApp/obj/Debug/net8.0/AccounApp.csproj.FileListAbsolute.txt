@@ -1,0 +1,17 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\bin\Debug\net8.0\AccounApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\bin\Debug\net8.0\AccounApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\bin\Debug\net8.0\AccounApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\bin\Debug\net8.0\AccounApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\bin\Debug\net8.0\AccounApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\bin\Debug\net8.0\AccounApp.xml
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\obj\Debug\net8.0\AccounApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\obj\Debug\net8.0\AccounApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\obj\Debug\net8.0\AccounApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\obj\Debug\net8.0\AccounApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\obj\Debug\net8.0\AccounApp.sourcelink.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\obj\Debug\net8.0\AccounApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\obj\Debug\net8.0\refint\AccounApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\obj\Debug\net8.0\AccounApp.xml
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\obj\Debug\net8.0\AccounApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\obj\Debug\net8.0\AccounApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\AccounApp\obj\Debug\net8.0\ref\AccounApp.dll

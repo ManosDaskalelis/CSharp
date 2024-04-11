@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AccounApp</name>
+    </assembly>
+    <members>
+        <member name="M:AccounApp.Model.Account.Deposit(System.Decimal)">
+            <summary>
+            Depositsan amount of money to the <see cref="T:AccounApp.Model.Account"/>
+            </summary>
+            <param name="amount">A certain amount of money</param>
+        </member>
+    </members>
+</doc>
