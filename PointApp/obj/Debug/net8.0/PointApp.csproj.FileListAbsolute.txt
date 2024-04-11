@@ -1,0 +1,15 @@
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\bin\Debug\net8.0\PointApp.exe
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\bin\Debug\net8.0\PointApp.deps.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\bin\Debug\net8.0\PointApp.runtimeconfig.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\bin\Debug\net8.0\PointApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\bin\Debug\net8.0\PointApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\obj\Debug\net8.0\PointApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\obj\Debug\net8.0\PointApp.AssemblyInfoInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\obj\Debug\net8.0\PointApp.AssemblyInfo.cs
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\obj\Debug\net8.0\PointApp.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\obj\Debug\net8.0\PointApp.sourcelink.json
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\obj\Debug\net8.0\PointApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\obj\Debug\net8.0\refint\PointApp.dll
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\obj\Debug\net8.0\PointApp.pdb
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\obj\Debug\net8.0\PointApp.genruntimeconfig.cache
+C:\Users\Manos\Desktop\cs12dotnet8\CodingFactory5\PointApp\obj\Debug\net8.0\ref\PointApp.dll

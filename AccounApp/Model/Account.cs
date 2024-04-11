@@ -32,6 +32,7 @@ namespace AccounApp.Model
             try
             {
                 if (amount < 0) throw new NegativeAmountException("Error Amount cannot be negative");
+                Balance += amount;
             }
             catch (NegativeAmountException e)
             {

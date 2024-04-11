@@ -6,9 +6,16 @@
     <members>
         <member name="M:AccounApp.Model.Account.Deposit(System.Decimal)">
             <summary>
-            Depositsan amount of money to the <see cref="T:AccounApp.Model.Account"/>
+            Deposits an amount of money to the <see cref="T:AccounApp.Model.Account"/>
             </summary>
             <param name="amount">A certain amount of money</param>
+        </member>
+        <member name="M:AccounApp.Model.Account.Withdraw(System.Decimal,System.String)">
+            <summary>
+             Withdraws an amount of money to the <see cref="T:AccounApp.Model.Account"/>
+            </summary>
+            <param name="amount"></param>
+            <param name="ssn"></param>
         </member>
     </members>
 </doc>
