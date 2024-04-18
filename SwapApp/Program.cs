@@ -4,59 +4,43 @@
     {
         static void Main(string[] args)
         {
-            int x = 10;
-            int y = 7;
-            //{
-            //    int a = 10; int b = 20;
+            /*int a = 10;
+            int b = 20;
 
-            //    Console.WriteLine($"{a}, {b}");
-            //    Swap(a, b);
-            //SwapRef(ref x, ref y);
-            Swap(x, y);
-            Console.WriteLine($"{x} + {y}");
-            SwapRef(ref x, ref y);
-            Console.WriteLine($"{x} + {y}");
-            ChangeInt(out x);
-            Console.WriteLine($"{x}");
-            //    Console.WriteLine($"{a}, {b}");
+            Console.WriteLine($"a: {a}, b: {b}");
+            // Swap(a, b);
+            Swap(ref a, ref b);
+            Console.WriteLine($"a: {a}, b: {b}");*/
             string? s = "Hello";
             ChangeStr(out s);
-            Console.WriteLine(s);
+            Console.WriteLine($"s: {s}");
         }
+
 
         /// <summary>
-        /// Swap gets args by value
+        /// Swap gets args by value.
         /// </summary>
         /// <param name="a">The first input.</param>
-        /// <param name="b">The second input</param>
-        public static void Swap(int x, int y)
+        /// <param name="b">The second input.</param>
+        public static void Swap(int a, int b)
         {
-            int tmp = x;
-            x = y;
-            y = tmp;
+            int tmp = a;
+            a = b;
+            b = tmp;
         }
 
-        /// <summary>
-        /// Swap gets args by ref
-        /// </summary>
-        /// <param name="a">The first input.</param>
-        /// <param name="b">The second input</param>
-        public static void SwapRef(ref int x, ref int y)
+
+        public static void Swap(ref int a, ref int b)
         {
-            //int tmp = x;
-            //x = y;
-            //y = tmp;
-            (x, y) = (y, x);
+            /*int tmp = a;
+            a = b;
+            b = tmp;*/
+            (a, b) = (b, a);
         }
 
-        public static void ChangeStr(out string s)
+        public static void ChangeStr(out string str)
         {
-            s = "AUEB";
-        }
-        public static void ChangeInt(out int x)
-        {
-            x = 20;
+            str = "AUEB";
         }
     }
-
 }

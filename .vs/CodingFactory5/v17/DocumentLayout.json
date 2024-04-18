@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABD33058-C879-4B7F-BF90-078567B7F6AB}|InterfacesApp\\InterfacesApp.csproj|c:\\users\\manos\\desktop\\cs12dotnet8\\codingfactory5\\interfacesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD33058-C879-4B7F-BF90-078567B7F6AB}|InterfacesApp\\InterfacesApp.csproj|solutionrelative:interfacesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B5FE3EA-9ABA-4407-B0E4-40F3182C1A96}|WebStarterApp\\WebStarterApp.csproj|c:\\users\\manos\\desktop\\cs12dotnet8\\codingfactory5\\webstarterapp\\pages\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B5FE3EA-9ABA-4407-B0E4-40F3182C1A96}|WebStarterApp\\WebStarterApp.csproj|solutionrelative:webstarterapp\\pages\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABD33058-C879-4B7F-BF90-078567B7F6AB}|InterfacesApp\\InterfacesApp.csproj|c:\\users\\manos\\desktop\\cs12dotnet8\\codingfactory5\\interfacesapp\\service\\movingspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD33058-C879-4B7F-BF90-078567B7F6AB}|InterfacesApp\\InterfacesApp.csproj|solutionrelative:interfacesapp\\service\\movingspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46ABC581-4449-4B8F-9B36-B76E40644594}|DependencyInjectionApp\\DependencyInjectionApp.csproj|c:\\users\\manos\\desktop\\cs12dotnet8\\codingfactory5\\dependencyinjectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46ABC581-4449-4B8F-9B36-B76E40644594}|DependencyInjectionApp\\DependencyInjectionApp.csproj|solutionrelative:dependencyinjectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B5FE3EA-9ABA-4407-B0E4-40F3182C1A96}|WebStarterApp\\WebStarterApp.csproj|c:\\users\\manos\\desktop\\cs12dotnet8\\codingfactory5\\webstarterapp\\pages\\student.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5FE3EA-9ABA-4407-B0E4-40F3182C1A96}|WebStarterApp\\WebStarterApp.csproj|solutionrelative:webstarterapp\\pages\\student.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,47 +29,29 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\InterfacesApp\\Program.cs",
-              "RelativeDocumentMoniker": "InterfacesApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\InterfacesApp\\Program.cs",
-              "RelativeToolTip": "InterfacesApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T17:54:53.783Z",
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\WebStarterApp\\Pages\\Student.cshtml",
+              "RelativeDocumentMoniker": "WebStarterApp\\Pages\\Student.cshtml",
+              "ToolTip": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\WebStarterApp\\Pages\\Student.cshtml",
+              "RelativeToolTip": "WebStarterApp\\Pages\\Student.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T17:47:09.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MovingSpace.cs",
-              "DocumentMoniker": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\InterfacesApp\\Service\\MovingSpace.cs",
-              "RelativeDocumentMoniker": "InterfacesApp\\Service\\MovingSpace.cs",
-              "ToolTip": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\InterfacesApp\\Service\\MovingSpace.cs",
-              "RelativeToolTip": "InterfacesApp\\Service\\MovingSpace.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Title": "Student.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\WebStarterApp\\Pages\\Student.cshtml.cs",
+              "RelativeDocumentMoniker": "WebStarterApp\\Pages\\Student.cshtml.cs",
+              "ToolTip": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\WebStarterApp\\Pages\\Student.cshtml.cs",
+              "RelativeToolTip": "WebStarterApp\\Pages\\Student.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T17:50:07.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\DependencyInjectionApp\\Program.cs",
-              "RelativeDocumentMoniker": "DependencyInjectionApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Manos\\Desktop\\cs12dotnet8\\CodingFactory5\\DependencyInjectionApp\\Program.cs",
-              "RelativeToolTip": "DependencyInjectionApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T17:49:34.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T17:25:01.014Z"
             }
           ]
         }

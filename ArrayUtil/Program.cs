@@ -4,17 +4,17 @@
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[] { 1, 2, 3 };
+            int[] arr = new int[] { 1, 2, 3};
 
-            foreach (int i in arr) 
+            foreach (int item in arr)
             {
-                Console.Write($"{i}");
+                Console.Write($"{item} ");
             }
 
-            Array.Reverse( arr );
+            Array.Reverse(arr);
 
             int[] reversed = new int[arr.Length];
-            Array.Copy(arr, reversed, arr.Length );
+            Array.Copy(arr, reversed, arr.Length);
         }
     }
 }

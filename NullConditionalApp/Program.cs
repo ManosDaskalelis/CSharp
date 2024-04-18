@@ -4,11 +4,10 @@
     {
         static void Main(string[] args)
         {
-           
-            Console.WriteLine(GetUpperString());
+            Console.WriteLine("Hello, World!");
         }
 
-        public static string? GetUpperString() 
+        public static string? GetUpperStr()
         {
             string? s;
 
@@ -16,7 +15,6 @@
             s = Console.ReadLine();
 
             return s?.ToUpper();
-
         }
     }
 }

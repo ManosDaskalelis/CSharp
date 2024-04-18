@@ -15,15 +15,25 @@ namespace InterfacesApp
             movable.Move10();
             Console.WriteLine(movable);
 
+            IMovable p1 = new Point()
+            {
+                X = 5
+            };
+
             IMovable p2 = new Point2D()
             {
                 X = 4,
                 Y = 6
             };
 
-            MovingSpace m2 = new(p2);
+            MovingSpace ms1 = new(p1);
+            MovingSpace ms2 = new(p2);
 
-            m2.MakeMove5();
+            ms1.makeMove5();
+            ms2.makeMove5();
+
+            Console.WriteLine(p1);
+            Console.WriteLine(p2);
         }
     }
 }

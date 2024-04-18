@@ -8,6 +8,9 @@ namespace InterfacesApp.Service
 {
     internal class Point : AbstractPoint, IMovable
     {
-
+        public override string ToString()
+        {
+            return $"({X}";
+        }
     }
 }

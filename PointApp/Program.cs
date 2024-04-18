@@ -9,16 +9,16 @@ namespace PointApp
             List<Point> points = new()
             {
                 new Point(), new Point(5),
-                new Point2D(), new Point2D(1,2),
+                new Point2D(), new Point2D(1, 2),
                 new Point3D(), new Point3D(1, 2, 3)
             };
 
-            foreach(Point point in points) 
+            foreach (Point point in points)
             {
                 Console.WriteLine(point);
             }
 
-            Point p1 = new Point(5);
+            Point p1 = new(5);
             Point p11 = Point.GetPoint();
 
             Point2D p2 = new(5, 12);
@@ -31,14 +31,14 @@ namespace PointApp
 
             p5.Move5();
 
-            Console.WriteLine(p5);
+            //Console.WriteLine(p5);
             DoPrint(p1);
-            DoPrint(p2);
             DoPrint(p11);
+            DoPrint(p2);
 
             DoMove5(p5);
-            DoMove5(p4);
-            DoMove5(p3);
+            DoPrint(p3);
+            DoPrint(p4);
         }
 
         public static void DoPrint(Point point)
@@ -46,9 +46,11 @@ namespace PointApp
             Console.WriteLine(point);
         }
 
-        public static void DoMove5(Point point) 
+        public static void DoMove5(Point point)
         {
-            point.Move5();        
+            point.Move5();
         }
+
+
     }
 }

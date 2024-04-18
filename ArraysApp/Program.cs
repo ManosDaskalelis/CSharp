@@ -1,4 +1,6 @@
-﻿namespace ArraysApp
+﻿using System.Net.Http.Headers;
+
+namespace ArraysApp
 {
     internal class Program
     {
@@ -7,14 +9,14 @@
             int[] arr1 = new int[5];
             arr1[0] = 1;
 
-            int[] arr2 = {1, 2, 3};
+            int[] arr2 = { 1, 2, 3 };
 
-            int[] arr3;
-            arr3 = new int[] {1, 2, 3};
+            int[] arr3; 
+            arr3 = new int[] { 1, 2, 3 };
 
             Console.WriteLine(arr3.Length);
 
-            for (int i = 0; i < arr1.Length; i++) 
+            for (int i = 0; i < arr3.Length; i++)
             {
                 Console.WriteLine(arr1[i]);
             }
@@ -24,17 +26,18 @@
                 Console.WriteLine(item);
             }
 
+
             int[,] grid = new int[3, 4];
 
-            for (int i = 0;i < grid.GetLength(0);i++)
+            for (int i = 0; i < grid.GetLength(0); i++)
             {
-                for (int j = 0;j < grid.GetLength(1);j++)
+                for (int j = 0; j < grid.GetLength(1); j++)
                 {
-                    Console.WriteLine(grid[i, j]);
+                    Console.WriteLine(grid[i,j]);
                 }
             }
 
-            //jagged
+            //Jagged
             int[][] jagged = new int[4][];
             jagged[0] = new int[4];
             jagged[1] = new int[2];

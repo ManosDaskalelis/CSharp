@@ -10,12 +10,9 @@
             {
                 Console.WriteLine("Please insert a char");
                 ord = Console.Read();
-                Console.WriteLine($"Char: {(char)ord}, Ordinal: {ord}");
-
+                Console.WriteLine($"Char: {(char) ord}, Ordinal: {ord}");
 
             } while (ord != 10);
-
-
         }
     }
 }

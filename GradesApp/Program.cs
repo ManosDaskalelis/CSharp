@@ -2,9 +2,9 @@
 {
 
     /// <summary>
-    /// Λαμβάνει ως είσοδο δύο ακεραλιους, το συνολο 
-    /// των βαθμών και το πλήθος των ματημάτων και υπολογίζει
-    /// τον μέσο όρο και αντίστοιχα εμφανίζει τον μέσο όρο
+    /// Λαμβάνει ως είσοδο δύο ακεραίους, το σύνολο
+    /// των βαθμών και το πλήθος των μαθημάτων και υπολογίζει
+    /// τονμέσο όρο και αντίσοιχα εμφανίζει τον μέσο όρο 
     /// και ένα χαρακτηρισμό (Άριστα, Πολύ καλά, Καλά, Αποτυχία).
     /// </summary>
     internal class Program
@@ -16,12 +16,11 @@
             int average = 0;
 
             Console.WriteLine("Please enter grades sum and grades count");
-            if (!int.TryParse(Console.ReadLine()!, out int gradesSum))
-            {
+            if (!int.TryParse(Console.ReadLine()!, out int gradesSum)) {
                 Console.WriteLine("Error in read");
             }
 
-            if (int.TryParse(Console.ReadLine()!, out int gradesCount))
+            if (!int.TryParse(Console.ReadLine()!, out int gradesCount))
             {
                 Console.WriteLine("Error in read");
             }

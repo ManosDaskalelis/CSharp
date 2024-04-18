@@ -21,23 +21,23 @@ namespace PointApp.Model
         }
 
         /// <summary>
-        /// Static Factory
+        /// Static factory.
         /// </summary>
-        /// <returns>A default (X = 0) new point</returns>
+        /// <returns>A default (X=0) new point</returns>
         public static Point GetPoint()
         {
             return new Point();
-        }
-
+        } 
 
         public virtual void Move5()
         {
             X += 5;
         }
 
-        public override string? ToString()
+        public override string ToString()
         {
-            return $"{{ {X} }}";
+            return $"{{{X}}}";
         }
+
     }
 }

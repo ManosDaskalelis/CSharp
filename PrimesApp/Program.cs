@@ -1,27 +1,25 @@
-﻿
-namespace PrimesApp
+﻿namespace PrimesApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i <= 20;  i++)
+            for (int i = 1; i <= 20; i++)
             {
-                Console.WriteLine($"{0} is{1}Prime", i, ΙsPrime(i) ? " " : " not ");
+                Console.WriteLine("{0}\tis{1}prime", i, (IsPrime(i)) ? " " : " not ");
             }
         }
-        public static bool ΙsPrime(int n)
+
+        public static bool IsPrime(int n)
         {
             bool prime = true;
             int divider = 2;
-            int maxDivider = (int)Math.Sqrt(n);
+            int maxDivider = (int) Math.Sqrt(n);
 
             while (prime && (divider <= maxDivider))
             {
                 if (n % divider == 0) prime = false;
-                {
-                    divider++;
-                }
+                divider++;
             }
             return prime;
         }

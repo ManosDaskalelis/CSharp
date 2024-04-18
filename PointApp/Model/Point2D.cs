@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PointApp.Model
+﻿namespace PointApp.Model
 {
     internal class Point2D : Point
     {
@@ -15,7 +9,7 @@ namespace PointApp.Model
 
         }
 
-        public Point2D(int x , int y) : base(x)
+        public Point2D(int x, int y) : base(x)
         {
             Y = y;
         }
@@ -24,11 +18,11 @@ namespace PointApp.Model
         {
             base.Move5();
             Y += 5;
-        }
+        }   
 
-        public override string? ToString()
+        public override string ToString()
         {
-            return base.ToString() + $"{{ {Y} }}";
+            return base.ToString() + $", {{{Y}}}";
         }
     }
 }

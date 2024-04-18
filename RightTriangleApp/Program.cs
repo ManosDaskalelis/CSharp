@@ -17,7 +17,7 @@
 
             isRight = Math.Abs(a * a - b * b - c * c) <= EPSILON;
 
-            Console.WriteLine($"The triangle is {0} right: ", (isRight) ? " " : " not ");
+            Console.WriteLine($"The triangle is{0}right: ", (isRight) ? " " : " not ");
         }
     }
 }

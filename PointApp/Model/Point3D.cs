@@ -1,20 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PointApp.Model
+﻿namespace PointApp.Model
 {
     internal class Point3D : Point2D
     {
-
-        public int Z {  get; set; }
-
+        public int Z { get; set; }
 
         public Point3D() : base()
         {
-            
+
         }
 
         public Point3D(int x, int y, int z) : base(x, y)
@@ -25,12 +17,12 @@ namespace PointApp.Model
         public override void Move5()
         {
             base.Move5();
-             Z += 5;   
+            Z += 5;
         }
 
-        public override string? ToString()
+        public override string ToString()
         {
-            return base.ToString() + $"{{ {Z} }}";
+            return base.ToString() + $", {{{Z}}}";
         }
     }
 }

@@ -9,13 +9,13 @@ namespace InterfacesApp.Service
     internal class MovingSpace
     {
         private IMovable _movable;
-
+        
         public MovingSpace(IMovable movable)
         {
             this._movable = movable;
         }
 
-        public void MakeMove5()
+        public void makeMove5()
         {
             _movable.Move5();
         }

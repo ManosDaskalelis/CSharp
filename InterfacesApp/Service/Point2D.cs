@@ -22,7 +22,7 @@ namespace InterfacesApp.Service
             Y += 10;
         }
 
-        public override string? ToString()
+        public override string ToString()
         {
             return $"({X} , {Y})";
         }

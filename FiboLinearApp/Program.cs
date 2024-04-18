@@ -4,27 +4,25 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"{fibo(2)}");
+            for (int i = 0; i <= 20; i++)
+            {
+                Console.WriteLine($"{i}:  {Fibo(i)} ");
+            }
         }
 
-        public static int fibo(int n) 
+        public static int Fibo(int n)
         {
-            int a = 0; 
-            int b = 1; 
+            int a = 0;
+            int b = 1;
             int c = 1;
 
-            Console.Write("{0} {1}", a, b);
-
-            for (int i = 1;  i < n; i++)
+            for (int i = 1; i < n; i++)
             {
                 c = a + b;
-                Console.Write(" {0}", c);
                 a = b;
                 b = c;
-            
             }
-            return (n != 0) ? c : 0;   
-        
+            return (n != 0) ? c : 0;
         }
     }
 }

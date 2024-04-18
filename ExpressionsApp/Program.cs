@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-
             int num1 = 10;
             int num2 = 20;
             int num3 = 30;
@@ -16,8 +15,9 @@
             int mod = 0;
 
             int result1 = 0;
-            int result2 = 0;
+            long result2 = 0;
             int result3 = 0;
+
 
             sum = num1 + num2;
             mul = num2 * num3;

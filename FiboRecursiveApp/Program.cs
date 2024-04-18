@@ -4,22 +4,16 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"{Fibo(20)}");
-        }
-        public static int Fibo(int n)
-        {
-            if ((n == 0) || (n == 1))
+            for (int i = 0; i <= 20; i++)
             {
-                return n;
+                Console.WriteLine($"{i}:  {Fibo(i)} ");
             }
-            else
-                return Fibo(n - 1) + Fibo(n - 2);
         }
 
-        public static int fibonachi(int n) 
+        public static int Fibo(int n)
         {
             if (n <= 0) return 0;
-            return (n < 2) ? fibonachi(n - 1) + fibonachi(n - 2) : 1;
+            return (n > 2) ? Fibo(n-1) + Fibo(n-2) : 1;
         }
     }
 }
